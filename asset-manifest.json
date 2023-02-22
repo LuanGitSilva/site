@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4d035810.css",
+    "main.js": "./static/js/main.455413f1.js",
+    "static/js/787.03fe6faf.chunk.js": "./static/js/787.03fe6faf.chunk.js",
+    "static/media/reforma.jpg": "./static/media/reforma.1e824142891b76fbc3ad.jpg",
+    "static/media/zero.jpg": "./static/media/zero.3bd47ac4e1799482144c.jpg",
+    "static/media/casa4.jpg": "./static/media/casa4.35bb34b4058daff096f0.jpg",
+    "static/media/casa2.jpg": "./static/media/casa2.216b84950544cfb47c20.jpg",
+    "static/media/casa.jpg": "./static/media/casa.3eaf9e8f61bbeb2781ef.jpg",
+    "static/media/casa1.jpg": "./static/media/casa1.8cf2fcfc652a5bf8c201.jpg",
+    "static/media/casa3.jpg": "./static/media/casa3.14534e182c2670f671b6.jpg",
+    "static/media/simbol.png": "./static/media/simbol.026c6351120d7236702f.png",
+    "index.html": "./index.html",
+    "main.4d035810.css.map": "./static/css/main.4d035810.css.map",
+    "main.455413f1.js.map": "./static/js/main.455413f1.js.map",
+    "787.03fe6faf.chunk.js.map": "./static/js/787.03fe6faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d035810.css",
+    "static/js/main.455413f1.js"
+  ]
+}
